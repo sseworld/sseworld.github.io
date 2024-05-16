@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Tutorial - Basics",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Tutorial - Extras",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SSE UI Packages": {
+    "message": "SSE UI Packages",
+    "description": "The label for category SSE UI Packages in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SSE UI Packages.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category SSE UI Packages in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Code Editor": {
+    "message": "Code Editor",
+    "description": "The label for category Code Editor in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Code Editor.link.generated-index.description": {
+    "message": "5 minutes to learn the most important SSE Editor concepts.",
+    "description": "The generated-index page description for category Code Editor in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SSE PDF Viewer": {
+    "message": "SSE PDF Viewer",
+    "description": "The label for category SSE PDF Viewer in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Plugin": {
+    "message": "Plugin",
+    "description": "The label for category Plugin in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Other Packages": {
+    "message": "Other Packages",
+    "description": "The label for category Other Packages in sidebar tutorialSidebar"
+  }
+}
