@@ -9,114 +9,78 @@ export default defineConfig({
   assetsDir: 'static',
   ignoreDeadLinks: true,
 
-  //  head: [
-  //   [
-  //     'script',
-  //     {
-  //       src: 'https://analytics.lucide.dev/js/script.js',
-  //       'data-domain': 'lucide.dev',
-  //       defer: '',
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:locale',
-  //       content: 'en_US',
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:type',
-  //       content: 'website',
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:site_name',
-  //       content: title,
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:title',
-  //       content: socialTitle,
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:description',
-  //       content: description,
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:url',
-  //       content: 'https://lucide.dev',
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:image',
-  //       content: 'https://lucide.dev/og.png',
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:image:width',
-  //       content: '1200',
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:image:height',
-  //       content: '630',
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'og:image:type',
-  //       content: 'image/png',
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'twitter:card',
-  //       content: 'summary_large_image',
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'twitter:title',
-  //       content: socialTitle,
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'twitter:description',
-  //       content: description,
-  //     },
-  //   ],
-  //   [
-  //     'meta',
-  //     {
-  //       property: 'twitter:image',
-  //       content: 'https://lucide.dev/og.png',
-  //     },
-  //   ],
-  // ],
+   head: [
+    [
+      'meta',
+      {
+        property: 'og:locale',
+        content: 'en_US',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:type',
+        content: 'website',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:site_name',
+        content: 'SSE Documentation',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:title',
+        content: 'Documentation Made By SSE with Love',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:description',
+        content: 'Documentation Made By SSE with Love',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:url',
+        content: 'https://sseworld.github.io/',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:image',
+        content: 'https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:image:width',
+        content: '1200',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:image:height',
+        content: '630',
+      },
+    ],
+    [
+      'meta',
+      {
+        property: 'og:image:type',
+        content: 'image/svg',
+      },
+    ],
+  ],
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -236,35 +200,7 @@ export default defineConfig({
     },
 
     search: {
-      provider: 'local',
-      options: {
-        locales: {
-          zh: {
-            // make this `root` if you want to translate the default locale
-            translations: {
-              button: {
-                buttonText: '搜索',
-                buttonAriaLabel: '搜索',
-              },
-              modal: {
-                displayDetails: '显示详细列表',
-                resetButtonTitle: '重置搜索',
-                backButtonTitle: '关闭搜索',
-                noResultsText: '没有结果',
-                footer: {
-                  selectText: '选择',
-                  selectKeyAriaLabel: '输入',
-                  navigateText: '导航',
-                  navigateUpKeyAriaLabel: '上箭头',
-                  navigateDownKeyAriaLabel: '下箭头',
-                  closeText: '关闭',
-                  closeKeyAriaLabel: 'esc',
-                },
-              },
-            },
-          },
-        },
-      },
+      provider: 'local'
     },
 
     socialLinks: [

@@ -9,7 +9,7 @@ export default {
         ...packageData[name],
         documentation: `/docs/${packageData[name].slug}`,
         source: `https://github.com/sseworld/sseworld.github.io/edit/master/docs/${packageData[name].slug}`,
-        icon: `/icons/${packageData[name].icon}.svg`,
+        icon: `/static/icons/${packageData[name].icon}.svg`,
       }))
       .sort((a, b) => a.order - b.order);
 

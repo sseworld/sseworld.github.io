@@ -2,6 +2,8 @@
 layout: page
 outline: 2
 outlineTitle: Packages
+search:
+  scope: ['./']
 ---
 <script setup>
 import PageContainer from './components/PageContainer.vue'
