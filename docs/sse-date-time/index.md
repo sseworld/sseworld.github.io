@@ -1,5 +1,5 @@
 ---
-title: SSE Spotify API
+title: SSE Date Time
 ---
 
 # @sseworld/date-time
