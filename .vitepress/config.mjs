@@ -1,11 +1,14 @@
 import { defineConfig } from 'vitepress';
 
+const base = '/v2/'
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'SSE Documentation',
   description: 'Documentation Made By SSE with Love',
   cleanUrls: true,
-  outDir: './dist',
+  base,
+  outDir: `./dist${base}`,
   assetsDir: 'static',
   ignoreDeadLinks: true,
 

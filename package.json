@@ -17,6 +17,6 @@
     "vitepress": "^1.2.3"
   },
   "dependencies": {
-    "@sakitam-gis/vitepress-playground": "^1.2.0"
+    "@sakitam-gis/vitepress-playground": "^1.1.2"
   }
 }
