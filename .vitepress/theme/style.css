@@ -1,0 +1,11 @@
+.theme-svg {
+  fill: #000000; /* default dark color */
+}
+
+.dark-theme .theme-svg {
+  fill: #FFFFFF; /* light color for dark theme */
+}
+
+.light-theme .theme-svg {
+  fill: #000000; /* dark color for light theme */
+}

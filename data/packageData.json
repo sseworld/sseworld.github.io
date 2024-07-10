@@ -1,0 +1,218 @@
+{
+  "SSE File Saver": {
+    "order": 0,
+    "slug": "sse-file-saver",
+    "icon": "files",
+    "desc": "An HTML5 saveAs() FileSaver implementation",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/sse-file-saver",
+        "href": "https://www.npmjs.com/package/sse-file-saver"
+      },      
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/sse-file-saver",
+        "href": "https://www.npmjs.com/package/sse-file-saver"
+      }
+    ]
+  },
+  "SSE Spotify API": {
+    "order": 1,
+    "slug": "sse-spotify-api",
+    "icon": "spotify",
+    "desc": "A Node.js wrapper for Spotify's Web API",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/sse-spotify-api",
+        "href": "https://www.npmjs.com/package/sse-spotify-api"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/sse-spotify-api",
+        "href": "https://www.npmjs.com/package/sse-spotify-api"
+      }
+    ]
+  },
+  "SSE Currency": {
+    "order": 2,
+    "slug": "sse-currency",
+    "icon": "currency",
+    "desc": "A simple Javascript utility that helps you to display currency properly",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40sseworld%2Fcurrency",
+        "href": "https://www.npmjs.com/package/@sseworld/currency"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40sseworld%2Fcurrency",
+        "href": "https://www.npmjs.com/package/@sseworld/currency"
+      }
+    ]
+  },
+  "SSE Date-Time": {
+    "order": 3,
+    "slug": "sse-date-time",
+    "icon": "date-time",
+    "desc": "A Minimalist DateTime utility for Node.js and the browser",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40sseworld%2Fdate-time",
+        "href": "https://www.npmjs.com/package/@sseworld/date-time"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40sseworld%2Fdate-time",
+        "href": "https://www.npmjs.com/package/@sseworld/date-time"
+      }
+    ]
+  },
+  "SSE Validator": {
+    "order": 4,
+    "slug": "sse-validator",
+    "icon": "validate",
+    "desc": "String validation and sanitization",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40sseworld%2Fvalidator",
+        "href": "https://www.npmjs.com/package/@sseworld/validator"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40sseworld%2Fvalidator",
+        "href": "https://www.npmjs.com/package/@sseworld/validator"
+      }
+    ]
+  },
+  "SSE Code Editor": {
+    "order": 5,
+    "slug": "code-editor",
+    "icon": "vscode",
+    "desc": "Code Editor created by SSE",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40sseworld%2Fcode-editor",
+        "href": "https://www.npmjs.com/package/@sseworld/code-editor"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40sseworld%2Fcode-editor",
+        "href": "https://www.npmjs.com/package/@sseworld/code-editor"
+      }
+    ]
+  },
+  "SSE Browser Detector": {
+    "order": 6,
+    "slug": "sse-detector",
+    "icon": "browser",
+    "desc": "Detect the browser and the platform.",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40sseworld%2Fdetector",
+        "href": "https://www.npmjs.com/package/@sseworld/detector"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40sseworld%2Fdetector",
+        "href": "https://www.npmjs.com/package/@sseworld/detector"
+      }
+    ]
+  },
+  "SSE Bcrypt": {
+    "order": 7,
+    "slug": "sse-bcrypt",
+    "icon": "eye",
+    "desc": "If you are looking for a javscript-only bcrypt implementation we recommend you use [bcrypt.js](https://github.com/dcodeIO/bcrypt.js), which is based on @sseworld/bcrypt-ts.",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40sseworld%2Fbcrypt-ts",
+        "href": "https://www.npmjs.com/package/@sseworld/bcrypt-ts"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40sseworld%2Fbcrypt-ts",
+        "href": "https://www.npmjs.com/package/@sseworld/bcrypt-ts"
+      }
+    ]
+  },
+  "SSE Classnames": {
+    "order": 8,
+    "slug": "sse-classname",
+    "icon": "browser",
+    "desc": "A simple utility for conditionally joining classNames together",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40sseworld%2Fclassnames",
+        "href": "https://www.npmjs.com/package/@sseworld/classnames"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40sseworld%2Fclassnames",
+        "href": "https://www.npmjs.com/package/@sseworld/classnames"
+      }
+    ]
+  },
+  "SSE Emoji": {    
+    "order": 9,
+    "slug": "sse-emoji",
+    "icon": "emoji",
+    "desc": "Friendly emoji lookups and parsing utilities for Node.js. 💖",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40ssets%2Femoji",
+        "href": "https://www.npmjs.com/package/@ssets/emoji"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40ssets%2Femoji",
+        "href": "https://www.npmjs.com/package/@ssets/emoji"
+      }
+    ]
+  },
+  "SSE Editor Webpack Plugin": {    
+    "order": 10,
+    "slug": "code-editor/Webpack",
+    "icon": "webpack",
+    "desc": "A webpack plugin for the SSE Editor",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40ssephox%2Feditor-webpack-plugin",
+        "href": "https://www.npmjs.com/package/@ssephox/editor-webpack-plugin"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40ssephox%2Feditor-webpack-plugin",
+        "href": "https://www.npmjs.com/package/@ssephox/editor-webpack-plugin"
+      }
+    ]
+  },
+  "SSE PDF Viewer": {    
+    "order": 11,
+    "slug": "sse-pdf-viewer/Installation",
+    "icon": "pdf",
+    "desc": "A React component to view a PDF document",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40sse-ui%2Fpdf-core",
+        "href": "https://www.npmjs.com/package/@sse-ui/pdf-core"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40sse-ui%2Fpdf-core",
+        "href": "https://www.npmjs.com/package/@sse-ui/pdf-core"
+      }
+    ]
+  }
+}
