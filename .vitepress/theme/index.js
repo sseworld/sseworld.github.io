@@ -6,6 +6,7 @@ import PackageListItem from "../../components/PackageListItem.vue"
 import Card from "../../components/base/Card.vue"
 import CardGrid from "../../components/base/CardGrid.vue"
 import GridSection from "../../components/base/GridSection.vue"
+import "./style.css"
 
 export default {
   ...DefaultTheme,

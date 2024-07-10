@@ -4,7 +4,7 @@ import { data } from './PackageList.data'
 import GridSection from './base/GridSection.vue'
 import PackageListItem from "./PackageListItem.vue";
 
-const pageSize = 6; // number of items per page
+const pageSize = 12; // number of items per page
 const currentPage = ref(1); // current page number
 const totalPages = Math.ceil(data.packages.length / pageSize); // total number of pages
 

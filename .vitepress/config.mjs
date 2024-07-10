@@ -122,6 +122,10 @@ export default defineConfig({
           { text: 'SSE Currency', link: '/docs/sse-currency', },
           { text: 'SSE File Saver', link: '/docs/sse-file-saver', },
           { text: 'SSE Validator', link: '/docs/sse-validator', },
+          { text: 'SSE Detector', link: '/docs/sse-detector', },
+          { text: 'SSE Bcrypt', link: '/docs/sse-bcrypt', },
+          { text: 'SSE Classnames', link: '/docs/sse-classname', },
+          { text: 'SSE Emoji', link: '/docs/sse-emoji', },
         ],
       "/docs/code-editor/": [
         {        

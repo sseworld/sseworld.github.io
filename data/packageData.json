@@ -160,5 +160,59 @@
         "href": "https://www.npmjs.com/package/@sseworld/classnames"
       }
     ]
+  },
+  "SSE Emoji": {    
+    "order": 9,
+    "slug": "sse-emoji",
+    "icon": "emoji",
+    "desc": "Friendly emoji lookups and parsing utilities for Node.js. 💖",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40ssets%2Femoji",
+        "href": "https://www.npmjs.com/package/@ssets/emoji"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40ssets%2Femoji",
+        "href": "https://www.npmjs.com/package/@ssets/emoji"
+      }
+    ]
+  },
+  "SSE Editor Webpack Plugin": {    
+    "order": 10,
+    "slug": "code-editor/Webpack",
+    "icon": "webpack",
+    "desc": "A webpack plugin for the SSE Editor",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40ssephox%2Feditor-webpack-plugin",
+        "href": "https://www.npmjs.com/package/@ssephox/editor-webpack-plugin"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40ssephox%2Feditor-webpack-plugin",
+        "href": "https://www.npmjs.com/package/@ssephox/editor-webpack-plugin"
+      }
+    ]
+  },
+  "SSE PDF Viewer": {    
+    "order": 11,
+    "slug": "sse-pdf-viewer/Installation",
+    "icon": "pdf",
+    "desc": "A React component to view a PDF document",
+    "shields": [
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/v/%40sse-ui%2Fpdf-core",
+        "href": "https://www.npmjs.com/package/@sse-ui/pdf-core"
+      },
+      {
+        "alt": "npm",
+        "src": "https://img.shields.io/npm/dw/%40sse-ui%2Fpdf-core",
+        "href": "https://www.npmjs.com/package/@sse-ui/pdf-core"
+      }
+    ]
   }
 }
