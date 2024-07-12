@@ -93,13 +93,14 @@ export default defineConfig({
       { text: 'Members', link: '/members' },
       { text: 'Documentation', link: '/docs' },
       { text: 'Packages', link: '/packages' },
-      // { text: 'Packages', items: [
-      //     { text: 'Code Editor', link: '/docs/code-editor/Installation', icon: 'mdi:code-brackets', },        
-      //     { text: 'SSE PDF Viewer', link: '/docs/sse-pdf-viewer/Installation', icon: 'mdi:file-pdf', },
-      //     { text: 'SSE Auth', link: '/docs/sse-auth/', },
-      //   ] 
-      // },
-      { text: 'LICENSE', link:'/license' }
+      { text: 'LICENSE', link:'/license' },
+      {
+        text: 'Version',
+        items: [
+          { text: 'Vitepress v2', link: '/v2' },
+          { text: 'Docusorous v1', link: '/' },
+        ]
+      }
     ],
 
     footer: {
