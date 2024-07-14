@@ -166,6 +166,7 @@ export default defineConfig({
                 { text: 'Locale Switcher', link: '/docs/sse-pdf-viewer/plugins/Locale-switcher' },
                 { text: 'Open', link: '/docs/sse-pdf-viewer/plugins/Open' },
                 { text: 'Page Navigation', link: '/docs/sse-pdf-viewer/plugins/Page-navigation' },
+                { text: 'Print', link: '/docs/sse-pdf-viewer/plugins/Print' },
                 { text: 'Properties', link: '/docs/sse-pdf-viewer/plugins/Properties' },
                 { text: 'Rotate', link: '/docs/sse-pdf-viewer/plugins/Rotate' },
                 { text: 'Scroll Mode', link: '/docs/sse-pdf-viewer/plugins/Scroll-mode' },
